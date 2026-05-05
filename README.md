@@ -100,3 +100,11 @@ Revenue Analysis Order Analysis Interactive Excel Dashboard
 📌 Conclusion
 
 This project demonstrates strong expertise in Excel-based data analysis, dashboard creation, KPI tracking, and business reporting. The interactive dashboard transforms raw sales data into meaningful insights that assist in strategic sales and revenue optimization.
+
+
+##Author
+Santhosh R P
+🔗 LinkedIn: https://www.linkedin.com/in/santhosh-rp
+💻 GitHub: https://github.com/santhosh-data-analyste
+
+
